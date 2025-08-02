@@ -46,7 +46,7 @@ A manifesto and method for designing software systems in 2025 — where human in
 - Typeface: `IBM Plex` (rational meets expressive)
 - Colors: Charcoal, amber, indigo
 - Imagery: Fractals, sacred geometry, layered blueprints
-- Logo: ![System Alchemist logo](./logo.png)
+- Logo: ![System Alchemist logo](./system_alchemist.png)
 
 ---
 
